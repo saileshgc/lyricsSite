@@ -1,0 +1,1 @@
+Copyright &copy; Your Website 2014
